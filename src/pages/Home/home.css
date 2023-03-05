@@ -1,0 +1,12 @@
+.randomList,
+.allList,
+.createList {
+    margin: 10px;
+}
+
+.randomList p,
+.allList p,
+.createList p {
+    width: 300px;
+    margin: 0 auto;
+}

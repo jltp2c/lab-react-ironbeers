@@ -1,0 +1,8 @@
+.containerItem {
+    display: flex;
+    align-items: center;
+}
+
+.picture {
+    margin: 10px;
+}
